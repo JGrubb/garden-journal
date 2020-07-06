@@ -19,6 +19,6 @@ App adds a timestamp automatically.
 ## Future?
 
 - Create a iPhone shortcut to enable "hey Siri, garden report 4 eggs".
-- Add support for general weather recording so we can correlate weather with
+- ✅ Add support for general weather recording so we can correlate weather with
 yields
 - Create IDs for garden beds maybe?
